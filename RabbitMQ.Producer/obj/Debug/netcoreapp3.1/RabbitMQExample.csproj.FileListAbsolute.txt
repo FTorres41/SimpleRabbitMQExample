@@ -1,0 +1,4 @@
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQExample\bin\Debug\netcoreapp3.1\RabbitMQExample.exe
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQExample\obj\Debug\netcoreapp3.1\RabbitMQExample.csprojAssemblyReference.cache
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQExample\obj\Debug\netcoreapp3.1\RabbitMQExample.AssemblyInfoInputs.cache
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQExample\obj\Debug\netcoreapp3.1\RabbitMQExample.AssemblyInfo.cs
