@@ -1,0 +1,8 @@
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\bin\Debug\netcoreapp3.1\RabbitMQ.Domain.deps.json
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\bin\Debug\netcoreapp3.1\RabbitMQ.Domain.dll
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\bin\Debug\netcoreapp3.1\RabbitMQ.Domain.pdb
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\obj\Debug\netcoreapp3.1\RabbitMQ.Domain.AssemblyInfoInputs.cache
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\obj\Debug\netcoreapp3.1\RabbitMQ.Domain.AssemblyInfo.cs
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\obj\Debug\netcoreapp3.1\RabbitMQ.Domain.dll
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\obj\Debug\netcoreapp3.1\RabbitMQ.Domain.pdb
+C:\Users\39926\Documents\SimpleRabbitMQExample\RabbitMQ.Domain\obj\Debug\netcoreapp3.1\RabbitMQ.Domain.csprojAssemblyReference.cache

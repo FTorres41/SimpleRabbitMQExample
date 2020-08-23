@@ -32,6 +32,16 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
         }
+      },
+      "RabbitMQ.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RabbitMQ.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RabbitMQ.Domain.dll": {}
+        }
       }
     }
   },
@@ -101,11 +111,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "RabbitMQ.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RabbitMQ.Domain/RabbitMQ.Domain.csproj",
+      "msbuildProject": "../RabbitMQ.Domain/RabbitMQ.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "RabbitMQ.Client >= 6.2.0"
+      "RabbitMQ.Client >= 6.2.0",
+      "RabbitMQ.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -138,7 +154,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\39926\\Documents\\SimpleRabbitMQExample\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj": {
+              "projectPath": "C:\\Users\\39926\\Documents\\SimpleRabbitMQExample\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
